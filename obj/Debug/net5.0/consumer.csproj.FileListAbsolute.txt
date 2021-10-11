@@ -1,0 +1,105 @@
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\appsettings.json
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\consumer.exe
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\consumer.deps.json
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\consumer.runtimeconfig.json
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\consumer.runtimeconfig.dev.json
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\ref\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\consumer.pdb
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.csproj.AssemblyReference.cache
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.AssemblyInfoInputs.cache
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.AssemblyInfo.cs
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.csproj.CoreCompileInputs.cache
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.Manifest.cache
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.xml
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\scopedcss\bundle\consumer.styles.css
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.RazorTargetAssemblyInfo.cache
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.csproj.CopyComplete
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\ref\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.pdb
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\obj\Debug\net5.0\consumer.genruntimeconfig.cache
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tanggy\Desktop\microservices training\Practice Day 5\consumer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\appsettings.json
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\consumer.exe
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\consumer.deps.json
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\consumer.runtimeconfig.json
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\consumer.runtimeconfig.dev.json
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\ref\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\consumer.pdb
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.csproj.AssemblyReference.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.AssemblyInfoInputs.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.AssemblyInfo.cs
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.csproj.CoreCompileInputs.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.Manifest.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.xml
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\scopedcss\bundle\consumer.styles.css
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.RazorTargetAssemblyInfo.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.csproj.CopyComplete
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\ref\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.pdb
+C:\Users\tanggy\Desktop\microservices training\Question-3A-Clara\consumer\obj\Debug\net5.0\consumer.genruntimeconfig.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\appsettings.json
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\consumer.exe
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\consumer.deps.json
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\consumer.runtimeconfig.json
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\consumer.runtimeconfig.dev.json
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\ref\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\consumer.pdb
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.csproj.AssemblyReference.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.AssemblyInfoInputs.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.AssemblyInfo.cs
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.csproj.CoreCompileInputs.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.Manifest.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.xml
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\scopedcss\bundle\consumer.styles.css
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.RazorTargetAssemblyInfo.cache
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.csproj.CopyComplete
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\ref\consumer.dll
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.pdb
+C:\Users\tanggy\Desktop\microservices training\Question-3B-Clara\consumer\obj\Debug\net5.0\consumer.genruntimeconfig.cache
